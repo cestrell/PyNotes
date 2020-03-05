@@ -1,18 +1,8 @@
-# NAME
-README.md Template
-
-## Setup
-```
-Snippet
-```
-
-## Usage
-```
-Snippet
-```
+# PyNotes
+Notepad application with basic functionality
 
 ## Additional
-Maybe some more here
+If running on WSL, you will need an X-server
 
 ## Author
 Carlos Estrella
